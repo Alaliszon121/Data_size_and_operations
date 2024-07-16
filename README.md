@@ -1,4 +1,4 @@
-# Operacje na danych i ich wielkości
+# SIMD instruction
 
 ## Opis
 
